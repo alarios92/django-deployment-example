@@ -28,7 +28,7 @@ SECRET_KEY = '!q8p_gk2p^yaf^(ejkh^(%a+n5i7lqsb^ieke+g@)m4omade3l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alarios92.pythonanywhere.com']
 
 
 # Application definition
